@@ -20,11 +20,11 @@ The project includes the following steps:
 
 To run the project, you'll need:
 
-- Python (version X.X)
-- pandas (version X.X)
-- scikit-learn (version X.X)
-- matplotlib (version X.X)
-- numpy (version X.X)
+- Python (version 3.9)
+- pandas 
+- scikit-learn 
+- matplotlib 
+- numpy 
 
 ## Setup
 
